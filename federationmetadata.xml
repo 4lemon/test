@@ -14,6 +14,7 @@
             <EndpointReference xmlns="http://www.w3.org/2005/08/addressing">
                 <Address>http://fff.a.blueotter.info/app/ffffs</Address>
             </EndpointReference>
+            <a>asdf</a>
         </fed:PassiveRequestorEndpoint>
     </RoleDescriptor>
 </EntityDescriptor>
