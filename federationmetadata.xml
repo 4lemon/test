@@ -7,12 +7,12 @@
         </fed:ClaimTypesRequested>
         <fed:TargetScopes>
             <EndpointReference xmlns="http://www.w3.org/2005/08/addressing">
-                <Address>http://ddd.a.blueotter.info/app/</Address>
+                <Address>http://ddd.a.blueotter.info/app/asdfadsf</Address>
             </EndpointReference>
         </fed:TargetScopes>
         <fed:PassiveRequestorEndpoint>
             <EndpointReference xmlns="http://www.w3.org/2005/08/addressing">
-                <Address>http://fff.a.blueotter.info/app/</Address>
+                <Address>http://fff.a.blueotter.info/app/ffffs</Address>
             </EndpointReference>
         </fed:PassiveRequestorEndpoint>
     </RoleDescriptor>
